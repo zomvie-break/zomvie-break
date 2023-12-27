@@ -21,3 +21,7 @@ My name is _Victor_. I love solving problems. I'm  a web developer and an engine
 - 🌱 I’m currently learning about NixOS. I've been using it on my daily driver and I love it. Expect the dotfiles soon (as soon as I wrapp my head around flakes)
 - 👯 I’m looking to collaborate on any challenging project. 
 - 📫 How to reach me: victor@chroniclesofhades.com
+
+## My tech stack
+
+![Static Badge](https://img.shields.io/badge/python-lightgrey?style=for-the-badge&logo=python&logoColor=navyblue)
